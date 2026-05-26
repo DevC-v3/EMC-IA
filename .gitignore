@@ -1,0 +1,13 @@
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+capturas/
+*.swp
+*.swo
+*~
